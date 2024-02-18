@@ -10,7 +10,7 @@
 
 • 🔭 I’m currently working on React js
 • 👯 I’m looking to collaborate on cool project.<br/>
-• 💬 Contact me at <a href="https://www.instagram.com/i_chandrasekhar"><b>@iam_pvn</b></a><br/>
+• 💬 Contact me at <a href="https://www.instagram.com/i_chandrasekhar"><b>@iam_chandra</b></a><br/>
 • 📫 Reach me at chandrasekhar3330@gmail.com<br/>
 </span>
 
