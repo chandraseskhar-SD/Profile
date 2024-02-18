@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm PAVAN MEKALA</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hi there 👋, I'm CHANDRASEKHAR MOKASI</h1>
+<h3 align="center">A passionate web development from India</h3>
 <img align="right" alt="coding"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1mekala37&label=Profile%20views&color=0e75b6&style=flat" alt="pa1mekala37" /> </p>
